@@ -28,3 +28,6 @@ contract day2 {
             quickSort(array, i, right);
     }
 }
+
+
+//spent some time creating function to populate array, then another to sort. However, ended up using Quicksort function.
